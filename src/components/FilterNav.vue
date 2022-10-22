@@ -44,7 +44,7 @@ export default {
 }
 
 .filter-nav button.active {
-  color: #00ce89;
+  color: #333;
   transition: 300ms all ease-in;
 }
 </style>

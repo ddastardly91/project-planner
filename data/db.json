@@ -2,14 +2,14 @@
   "projects": [
     {
       "id": 1,
-      "title": "Learn Vue.js with Net Ninja",
-      "details": "Finish the Net Ninja course on Udemy.",
-      "complete": false
+      "title": "Random Project",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed bibendum mattis dui eu semper. Cras sem libero, euismod id ultricies in, fringilla at ligula. Phasellus sed orci a tellus feugiat elementum. Nam tristique accumsan lobortis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Maecenas accumsan egestas arcu quis varius. Ut purus nibh, fringilla id laoreet dapibus, pretium sit amet risus.",
+      "complete": true
     },
     {
       "title": "Finish project planner app",
       "details": "Complete the project planner app",
-      "complete": true,
+      "complete": false,
       "id": 2
     }
   ]
