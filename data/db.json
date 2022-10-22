@@ -5,12 +5,6 @@
       "title": "Create new homepage banner",
       "details": "Lorem Ipsum",
       "complete": false
-    },
-    {
-      "id": 2,
-      "title": "Make marketing email",
-      "details": "Lorem Ipsum",
-      "complete": true
     }
   ]
 }
