@@ -2,8 +2,8 @@
   "projects": [
     {
       "id": 1,
-      "title": "Create new homepage banner",
-      "details": "Lorem Ipsum",
+      "title": "Learn Vue.js with Net Ninja",
+      "details": "Finish the Net Ninja course on Udemy.",
       "complete": false
     }
   ]
