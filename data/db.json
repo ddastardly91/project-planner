@@ -5,6 +5,12 @@
       "title": "Learn Vue.js with Net Ninja",
       "details": "Finish the Net Ninja course on Udemy.",
       "complete": false
+    },
+    {
+      "title": "Finish project planner app",
+      "details": "Complete the project planner app",
+      "complete": true,
+      "id": 2
     }
   ]
 }
